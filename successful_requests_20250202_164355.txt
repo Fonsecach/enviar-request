@@ -1,0 +1,3 @@
+[2025-02-02 16:44:27] Sucesso - Dados: {"name": "GROSSI COM\u00c9RCIO DE ALIMENTOS 33.628.655/0001-68", "contact_name": "GROSSI COM\u00c9RCIO DE ALIMENTOS", "x_studio_tese": "inss", "user_id": 63, "team_id": 5, "tag_ids": [], "stage_id": 10} - Status: 201
+[2025-02-02 16:44:58] Sucesso - Dados: {"name": "HULLER & LAZZERIS LTDA - 04.404.625/0001-70", "contact_name": "HULLER & LAZZERIS LTDA", "x_studio_tese": "inss", "user_id": 63, "team_id": 5, "tag_ids": [], "stage_id": 10} - Status: 201
+[2025-02-02 16:45:30] Sucesso - Dados: {"name": "AUTO POSTO GONCALVES & PEREIRA LTDA - 04.929.455/0001-47", "contact_name": "AUTO POSTO GONCALVES & PEREIRA LTDA", "x_studio_tese": "inss", "user_id": 63, "team_id": 5, "tag_ids": [], "stage_id": 10} - Status: 201

@@ -1,0 +1,1 @@
+[2025-02-02 19:29:25] Falha - Dados: {"name": "SUPERMERCADO MONIKA LTDA - 83.417.469/0001-58", "contact_name": "SUPERMERCADO MONIKA LTDA", "x_studio_tese": "inss", "user_id": 63, "team_id": 5, "tag_ids": [], "stage_id": 10} - Erro: Timeout na requisição

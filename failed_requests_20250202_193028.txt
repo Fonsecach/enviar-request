@@ -1,0 +1,2 @@
+[2025-02-02 19:31:02] Falha - Dados: {"name": "SUPERMERCADO MONIKA LTDA - 83.417.469/0001-58", "contact_name": "SUPERMERCADO MONIKA LTDA", "x_studio_tese": "inss", "user_id": 63, "team_id": 5, "tag_ids": [], "stage_id": 10} - Erro: Timeout na requisição
+[2025-02-02 19:31:34] Falha - Dados: {"name": "ANTONIO ELOIR S. TEODORO - CEI - 858.461.809-06", "contact_name": "ANTONIO ELOIR S. TEODORO CEI", "x_studio_tese": "inss", "user_id": 63, "team_id": 5, "tag_ids": [], "stage_id": 10} - Erro: Timeout na requisição
